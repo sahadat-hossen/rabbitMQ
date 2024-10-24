@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMcHYJc4Sr4=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\rabbitMQ\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\sahad\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\sahad\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\sahad\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

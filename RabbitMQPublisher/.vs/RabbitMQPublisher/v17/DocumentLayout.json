@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|d:\\projects\\rabbitmq\\rabbitmqpublisher\\rabbitmqpublisher\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|solutionrelative:rabbitmqpublisher\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|d:\\projects\\rabbitmq\\rabbitmqpublisher\\rabbitmqpublisher\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|solutionrelative:rabbitmqpublisher\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|d:\\projects\\rabbitmq\\rabbitmqpublisher\\rabbitmqpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3E34-B1AB-49DC-BC46-47E1F138B587}|RabbitMQPublisher\\RabbitMQPublisher.csproj|solutionrelative:rabbitmqpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RabbitMQPublisher\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RabbitMQPublisher\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:11:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQPublisher\\Program.cs",
+              "ToolTip": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQPublisher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:10:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "RabbitMQPublisher\\RabbitMQService.cs",
+              "ToolTip": "D:\\Projects\\rabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\RabbitMQService.cs",
+              "RelativeToolTip": "RabbitMQPublisher\\RabbitMQService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:02:32.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
